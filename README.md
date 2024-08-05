@@ -33,4 +33,6 @@ This entire project was built with the following technologies:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
+  <img src="https://img.shields.io/badge/Thunder%20Client-0A95FF?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client Badge"/>
+
 </p>
