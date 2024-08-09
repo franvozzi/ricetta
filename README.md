@@ -14,7 +14,7 @@ Main functionalites of **Riceta**:
   - Also, you'll be able to rate all the recipes stored in the app, feeding the app ranking.
 
 ## Bulit with
-This entire project was built with the following technologies:
+This entire project is being developed using the following technologies:
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge" alt="Express Badge"/>

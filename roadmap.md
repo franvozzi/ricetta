@@ -2,34 +2,34 @@
 
 ## 1. **Project Setup**
 
-- [ ] **Create GitHub Repository**
-  - [ ] Create a new repository on GitHub.
-  - [ ] Clone the repository to your local machine.
+- [x] **Create GitHub Repository**
+  - [x] Create a new repository on GitHub.
+  - [x] Clone the repository to your local machine.
 
-- [ ] **Set Up Folder Structure**
-  - [ ] Create `frontend` and `backend` folders within the `Ricetta` project.
+- [x] **Set Up Folder Structure**
+  - [x] Create `frontend` and `backend` folders within the `Ricetta` project.
 
 ## 2. **Frontend Setup**
 
-- [ ] **Initialize Project with Vite and React**
-  - [ ] Create a Vite and React project using TypeScript:
+- [x] **Initialize Project with Vite and React**
+  - [x] Create a Vite and React project using TypeScript:
     ```bash
     npm create vite@latest frontend --template react-ts
     ```
-  - [ ] Navigate to the `frontend` folder and install dependencies:
+  - [x] Navigate to the `frontend` folder and install dependencies:
     ```bash
     cd frontend
     npm install
     ```
 
-- [ ] **Install Additional Dependencies**
-  - [ ] Install `react-router-dom`:
+- [x] **Install Additional Dependencies**
+  - [x] Install `react-router-dom`:
     ```bash
     npm install react-router-dom
     ```
 
-- [ ] **Configure Vite**
-  - [ ] Ensure that `vite.config.ts` is correctly configured.
+- [x] **Configure Vite**
+  - [x] Ensure that `vite.config.ts` is correctly configured.
 
 - [ ] **Develop Components and Pages**
   - [ ] Create components in `src/components`.
@@ -43,29 +43,29 @@
 
 ## 3. **Backend Setup**
 
-- [ ] **Initialize Project with Express and Sequelize**
-  - [ ] Navigate to the `backend` folder.
-  - [ ] Initialize the project with `npm`:
+- [x] **Initialize Project with Express and Sequelize**
+  - [x] Navigate to the `backend` folder.
+  - [x] Initialize the project with `npm`:
     ```bash
     npm init -y
     ```
-  - [ ] Install dependencies:
+  - [x] Install dependencies:
     ```bash
     npm install express sequelize pg pg-hstore dotenv
     ```
-  - [ ] Install development dependencies:
+  - [x] Install development dependencies:
     ```bash
     npm install --save-dev nodemon
     ```
 
-- [ ] **Configure `server.js` and `app.js`**
+- [x] **Configure `server.js` and `app.js`**
   - [ ] Create and configure `server.js` to start the server and connect to the database.
-  - [ ] Create and configure `app.js` to define the Express configuration.
+  - [x] Create and configure `app.js` to define the Express configuration.
 
-- [ ] **Configure Database with Supabase**
-  - [ ] Create a project in Supabase.
-  - [ ] Configure the database and obtain necessary credentials.
-  - [ ] Create the `.env` file in the backend with Supabase credentials.
+- [x] **Configure Database with Supabase**
+  - [x] Create a project in Supabase.
+  - [x] Configure the database and obtain necessary credentials.
+  - [x] Create the `.env` file in the backend with Supabase credentials.
 
 - [ ] **Develop Models and Routes**
   - [ ] Create models in `server/models`.
