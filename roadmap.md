@@ -6,7 +6,7 @@
   - [x] Create a new repository on GitHub.
   - [x] Clone the repository to your local machine.
 
-- [ ] **Set Up Folder Structure**
+- [x] **Set Up Folder Structure**
   - [x] Create `frontend` and `backend` folders within the `Ricetta` project.
 
 ## 2. **Frontend Setup**
