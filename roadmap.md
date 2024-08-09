@@ -43,29 +43,29 @@
 
 ## 3. **Backend Setup**
 
-- [ ] **Initialize Project with Express and Sequelize**
-  - [ ] Navigate to the `backend` folder.
-  - [ ] Initialize the project with `npm`:
+- [x] **Initialize Project with Express and Sequelize**
+  - [x] Navigate to the `backend` folder.
+  - [x] Initialize the project with `npm`:
     ```bash
     npm init -y
     ```
-  - [ ] Install dependencies:
+  - [x] Install dependencies:
     ```bash
     npm install express sequelize pg pg-hstore dotenv
     ```
-  - [ ] Install development dependencies:
+  - [x] Install development dependencies:
     ```bash
     npm install --save-dev nodemon
     ```
 
-- [ ] **Configure `server.js` and `app.js`**
+- [x] **Configure `server.js` and `app.js`**
   - [ ] Create and configure `server.js` to start the server and connect to the database.
-  - [ ] Create and configure `app.js` to define the Express configuration.
+  - [x] Create and configure `app.js` to define the Express configuration.
 
-- [ ] **Configure Database with Supabase**
-  - [ ] Create a project in Supabase.
-  - [ ] Configure the database and obtain necessary credentials.
-  - [ ] Create the `.env` file in the backend with Supabase credentials.
+- [x] **Configure Database with Supabase**
+  - [x] Create a project in Supabase.
+  - [x] Configure the database and obtain necessary credentials.
+  - [x] Create the `.env` file in the backend with Supabase credentials.
 
 - [ ] **Develop Models and Routes**
   - [ ] Create models in `server/models`.
