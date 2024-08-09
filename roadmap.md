@@ -2,34 +2,34 @@
 
 ## 1. **Project Setup**
 
-- [ ] **Create GitHub Repository**
-  - [ ] Create a new repository on GitHub.
-  - [ ] Clone the repository to your local machine.
+- [x] **Create GitHub Repository**
+  - [x] Create a new repository on GitHub.
+  - [x] Clone the repository to your local machine.
 
 - [ ] **Set Up Folder Structure**
-  - [ ] Create `frontend` and `backend` folders within the `Ricetta` project.
+  - [x] Create `frontend` and `backend` folders within the `Ricetta` project.
 
 ## 2. **Frontend Setup**
 
-- [ ] **Initialize Project with Vite and React**
-  - [ ] Create a Vite and React project using TypeScript:
+- [x] **Initialize Project with Vite and React**
+  - [x] Create a Vite and React project using TypeScript:
     ```bash
     npm create vite@latest frontend --template react-ts
     ```
-  - [ ] Navigate to the `frontend` folder and install dependencies:
+  - [x] Navigate to the `frontend` folder and install dependencies:
     ```bash
     cd frontend
     npm install
     ```
 
-- [ ] **Install Additional Dependencies**
-  - [ ] Install `react-router-dom`:
+- [x] **Install Additional Dependencies**
+  - [x] Install `react-router-dom`:
     ```bash
     npm install react-router-dom
     ```
 
-- [ ] **Configure Vite**
-  - [ ] Ensure that `vite.config.ts` is correctly configured.
+- [x] **Configure Vite**
+  - [x] Ensure that `vite.config.ts` is correctly configured.
 
 - [ ] **Develop Components and Pages**
   - [ ] Create components in `src/components`.
